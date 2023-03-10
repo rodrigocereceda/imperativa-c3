@@ -50,7 +50,7 @@ console.log(persona.comer());
 
 // LISTADO DE ALUMNOS (2)
 // CADA ALUMNO DEBE TENER NOMBRE, NOTAS (3), UN METODO CALCULAR EL PROMEDIO
-// SI TIENE 7 o mas ESTA APROBADO
+// SI TIENE 7 o mas ESTA APROBADO 
 
 let promediar = function () {
   let acc = 0;
