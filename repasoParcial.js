@@ -17,7 +17,7 @@ console.log(res);
 
 console.log("-----------------");
 
-// TODO ---> ENCONTRAR EL MENOR NUMERO DEL ARREGLO ( LA PRIMER COINCIDENCIA )
+// TODO ---> ENCONTRAR EL MENOR NUMERO DEL ARREGLO ( LA PRIMER COINCIDENCIA ) no estara en el parcial
 
 let num = [12, 3, 24, 2, 3, 2];
 

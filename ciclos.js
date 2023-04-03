@@ -19,7 +19,7 @@ const repetirDiezVeces = ( numero )=>{
 
     for( let i = 1 ; i <= numero ; i++ ){
 
-        if( i % 2 === 0 ){
+        if( i % 2 === 0 ){ 
            contador += 1
         }
 
